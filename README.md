@@ -44,7 +44,7 @@ It is not recommended to install all tools.
 
 ### Installation
 ```bash
-git clone hhttps://github.com/palacita135/katoolin3.git;
+git clone https://github.com/palacita135/katoolin3.git;
 cd katoolin3;
 chmod +x ./install.sh;
 sudo ./install.sh;
