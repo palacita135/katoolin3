@@ -56,6 +56,9 @@ please make sure katoolin3 runs with exactly the same python3 version as the
 on older distributions ```python3-apt``` is only for python3.5. Katoolin3 has to be run accordingly
 with python3.7 or python3.5.
 
+### Run
+sudo python3 katoolin3.py
+
 ### Usage
 The program flow of katoolin3 is realized by presenting
 a list of options that you can choose from.
